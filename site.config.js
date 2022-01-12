@@ -1,18 +1,18 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'e24809b5ff3d43ae8e827ff0f7ff18a5',
+  rootNotionPageId: '3f28531bc6cd4594acc5d4951f47c051',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'onfuns',
+  name: "onfuns's blog",
   domain: 'onfuns.com',
   author: 'onfuns',
 
   // open graph metadata (optional)
-  description: 'onfuns\'s blog',
+  description: "onfuns's blog",
   socialImageTitle: 'onfuns',
   socialImageSubtitle: 'Hello World! 👋',
 
