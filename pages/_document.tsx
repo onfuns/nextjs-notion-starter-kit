@@ -39,6 +39,7 @@ export default class MyDocument extends Document {
 
           <body>
             <script src='noflash.js' />
+            <script src='analysis.js' />
 
             <Main />
 
