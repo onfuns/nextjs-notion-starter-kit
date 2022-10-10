@@ -38,6 +38,7 @@ export const FooterImpl: React.FC = () => {
         <a
           href='https://beian.miit.gov.cn/'
           target='_blank'
+          rel='noreferrer'
           className={styles.copyright}
           style={{ marginLeft: 20 }}
         >
